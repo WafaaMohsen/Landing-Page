@@ -1,7 +1,7 @@
 # Landing-Page
 
-**Installation**
-<sub>By uncompressing the zip file and open it in VS code or Sublime</sub>
+**Installation**<br>
+By uncompressing the zip file and open it in VS code or Sublime
 
 **Usage**
 It is one landing page based on smooth scrolling with 4 sections
