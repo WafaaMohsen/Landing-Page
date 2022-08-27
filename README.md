@@ -1,5 +1,3 @@
-Landing-Page
-
 # Project Title
 Landing-Page
 <!-- Add buttons here -->
