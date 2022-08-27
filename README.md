@@ -1,8 +1,7 @@
-# Landing-Page
-<!-- Add banner here -->
+Landing-Page
 
 # Project Title
-
+Landing-Page
 <!-- Add buttons here -->
 
 <!-- Describe your project in brief -->
